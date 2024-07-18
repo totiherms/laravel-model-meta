@@ -32,7 +32,7 @@
     },
     "require": {
         "php": "^8.0",
-        "vkovic/laravel-meta": "^1.0"
+        "vkovic/laravel-meta": "dev-master"
     },
     "require-dev": {
         "laravel/laravel": "^6.0",
