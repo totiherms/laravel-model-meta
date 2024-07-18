@@ -8,6 +8,12 @@
         "data"
     ],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/totiherms/laravel-meta/"
+        }
+    ],
     "authors": [
         {
             "name": "Vladimir Ković",
@@ -26,7 +32,7 @@
     },
     "require": {
         "php": "^8.0",
-        "vkovic/laravel-meta": "^0.2.2|^0.3"
+        "vkovic/laravel-meta": "^1.0"
     },
     "require-dev": {
         "laravel/laravel": "^6.0",
